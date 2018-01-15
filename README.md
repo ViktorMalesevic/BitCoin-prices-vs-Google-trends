@@ -7,3 +7,5 @@ Viktor Malesevic and Sebastien Moeller worked on this together.
 
 The project aims at predicting historical Bitcoin Prices using simple Machine Learning and Regression methods.
 The data is exctracted from poloniex API (for BitCoin prices) and from Google Trends API (for research trends).
+
+The whole work is presented in the Jupyter notebook.
